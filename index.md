@@ -66,10 +66,7 @@
 
 （見本）
 
-https://www.youtube.com/watch?v=AjHOCC0CgP0&
-
-
-[https://youtu.be/AjHOCC0CgP0](https://youtu.be/AjHOCC0CgP0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AjHOCC0CgP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -87,16 +84,6 @@ https://www.youtube.com/watch?v=AjHOCC0CgP0&
 ＋α　今回の見本の場合，タクトスイッチが磁石に当たるよりも，輪ゴムに当たって
 　　  押される方がより爪を切った時の感覚に近いので，磁石を固定している輪ゴム
           にスイッチが当たるように調節する．　
-
-
-
-
-
-https://www.youtube.com/watch?v=rMz4_WYRa8A&
-
-
-[https://youtu.be/rMz4_WYRa8A](https://youtu.be/rMz4_WYRa8A)
-
 
 
 
@@ -160,21 +147,15 @@ https://www.youtube.com/watch?v=rMz4_WYRa8A&
 0. Android起動
 
 
-https://www.youtube.com/watch?v=9QnggStbpz8&
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9QnggStbpz8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[https://youtu.be/9QnggStbpz8](https://youtu.be/9QnggStbpz8)
 Androidスマートフォンは電源オフの状態で送付いたします．
 電源ボタンを長押しすると起動します．
 
 1. Arduino検出(スマホ)
 
 
-https://www.youtube.com/watch?v=pPGSamyoco8&
-
-
-[https://youtu.be/pPGSamyoco8](https://youtu.be/pPGSamyoco8)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pPGSamyoco8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430671055_image.png)
 
@@ -186,10 +167,7 @@ https://www.youtube.com/watch?v=pPGSamyoco8&
 2. 入力機構の取り付け
 
 
-https://www.youtube.com/watch?v=rMz4_WYRa8A&
-
-
-[https://youtu.be/rMz4_WYRa8A](https://youtu.be/rMz4_WYRa8A)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rMz4_WYRa8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 入力機構の固定部分（ここでは割りばし）を土台の上面裏側に取り付けます．
 土台の上面裏側にあるマジックテープによって固定します．
@@ -210,10 +188,8 @@ https://www.youtube.com/watch?v=rMz4_WYRa8A&
 
 
 3. つけ爪の取り付け
-https://www.youtube.com/watch?v=UtYEyIsSyJU&
 
-
-[https://youtu.be/UtYEyIsSyJU](https://youtu.be/UtYEyIsSyJU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UtYEyIsSyJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 自身の左手に，サイズが合うネイルチップを選んでください．
@@ -237,10 +213,8 @@ https://www.youtube.com/watch?v=UtYEyIsSyJU&
 
 
 4. キャリブレーションとセットアップ
-https://www.youtube.com/watch?v=pIxs010hu9E&
 
-
-[https://youtu.be/pIxs010hu9E](https://youtu.be/pIxs010hu9E)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pIxs010hu9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 スマートフォンを土台の上面に設置します．
