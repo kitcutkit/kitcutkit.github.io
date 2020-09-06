@@ -55,6 +55,8 @@
 
 
 
+
+
 # 入力機構作成
 ## 入力機構における必要事項
 - 爪切りのような動作
@@ -64,9 +66,15 @@
 
 （見本）
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AjHOCC0CgP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=AjHOCC0CgP0&
 
 
+[https://youtu.be/AjHOCC0CgP0](https://youtu.be/AjHOCC0CgP0)
+
+
+
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430109861_image.png)
 
 1. 割り箸を交互にクロス
 2. ４端を輪ゴムで巻いて固定
@@ -81,4 +89,213 @@
           にスイッチが当たるように調節する．　
 
 
+
+
+
+https://www.youtube.com/watch?v=rMz4_WYRa8A&
+
+
+[https://youtu.be/rMz4_WYRa8A](https://youtu.be/rMz4_WYRa8A)
+
+
+
+
+# 組み立て説明書
+## 1. 木材切り出し
+
+まず、木材の切り出しを行います。以下の設計図の通りに各パーツを切り出してください。百均ショップで購入できる厚さ6mのMDF材を使うことをおすすめします。
+
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430220370_image.png)
+
+
+
+
+## 2. 木材加工①
+
+次に切り出した木材を加工します。
+
+
+- まず、切り出した板1を1枚用意し、以下の図の通りにケガキ（青線）をして板1に穴をあけます。板1の加工は1枚のみです。残り2枚は加工せずに使用します。ケガキした線にそってカッターで切れ目を入れてください。 一度に切ろうとせず、何度もカッターの刃を入れて徐々に切ってください。
+- 次に、くり抜いた穴にスマートフォン（本書ではXperia Z4）が合うか確認し（スマホの合わす向きに注意、下図参照）、イヤホン端子および充電口の端子に合わせて加工した板1を切り離します。
+
+
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430324705_image.png)
+
+## 2. 木材加工②
+- 次は板2に穴をあけます。ボール盤等で穴をあけることをおすすめします。以下の図の中心位置に直径30㎜の穴をあけてください。
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430382269_image.png)
+
+
+
+
+- 次はサーボ固定台に穴をあけます。本書ではサーボモータにSG90を使用しています。下の図に示す位置にSG90の配線が通る穴をあけます。穴の直径は4.5mmです。最初に2㎜程度の穴を先にあけ、そのあとに4.5㎜の穴をあけるようにしてください。穴をあけた後、穴の下部を削って鍵穴のような形に整形してください。
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430387181_image.png)
+
+
+
+## 3. 組み立て
+
+次に切り出した木材および加工した木材を組み立てて、きっとCutKit本体を製作します。木材と木材の接着は木工用ボンドを使用してください。
+
+
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430507868_image.png)
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430540765_image.png)
+
+
+以上できっとCutKit本体の組み立ては終了です。スマートフォンを実際にお置いてみてずれがないかなど確認してください。
+
+
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430559317_image.png)
+
+
+
+
+# セットアップ
+
+0. Android起動
+
+
+https://www.youtube.com/watch?v=9QnggStbpz8&
+
+
+[https://youtu.be/9QnggStbpz8](https://youtu.be/9QnggStbpz8)
+Androidスマートフォンは電源オフの状態で送付いたします．
+電源ボタンを長押しすると起動します．
+
+1. Arduino検出(スマホ)
+
+
+https://www.youtube.com/watch?v=pPGSamyoco8&
+
+
+[https://youtu.be/pPGSamyoco8](https://youtu.be/pPGSamyoco8)
+
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430671055_image.png)
+
+
+まず，USBホストケーブルと土台に付いているArduinoのUSBケーブル(青)を接続します．続いて，USBホストケーブルをスマートフォンに接続します．その後，Androidの上部をスワイプし，さらにもう一度上部からスワイプします．すると「USB機器を検出」というものがあるので，それをタップします．これによってスマートフォンがArduinoを検出します．
+
+
+
+2. 入力機構の取り付け
+
+
+https://www.youtube.com/watch?v=rMz4_WYRa8A&
+
+
+[https://youtu.be/rMz4_WYRa8A](https://youtu.be/rMz4_WYRa8A)
+
+入力機構の固定部分（ここでは割りばし）を土台の上面裏側に取り付けます．
+土台の上面裏側にあるマジックテープによって固定します．
+マジックテープでしっかり固定してください．
+また，固定部分の先端をスマホ固定柱の突起部分の隙間に入れるようにするとより安定します．
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430737171_image.png)
+
+
+ここで，マジックテープを貼る位置が，入力機構における回転軸に近すぎる場合，挟み込むときに邪魔となってしまうため，一定の距離を確保してください．
+
+
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430769715_image.png)
+
+
+
+
+
+3. つけ爪の取り付け
+https://www.youtube.com/watch?v=UtYEyIsSyJU&
+
+
+[https://youtu.be/UtYEyIsSyJU](https://youtu.be/UtYEyIsSyJU)
+
+
+自身の左手に，サイズが合うネイルチップを選んでください．
+続いて，ネイル粘着テープをつける指の爪に貼り付け，白い紙をはがしたのち，
+ネイルチップを装着してください．
+
+なお，装着は爪全体にしっかり固定せず，爪の一部分だけ取り付ける程度で構いません．無理に装着すると爪が変形して痛みを感じます．
+
+きっとCutKitを体験する際，つけ爪の先端にセロハンテープを粘着部分同士でつなげたもの，
+または両面テープ等をつけてください．
+
+これにより爪を引っ張るための洗濯バサミが取れずらくなります．
+
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430870285_image.png)
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430878221_image.png)
+
+
+
+
+
+4. キャリブレーションとセットアップ
+https://www.youtube.com/watch?v=pIxs010hu9E&
+
+
+[https://youtu.be/pIxs010hu9E](https://youtu.be/pIxs010hu9E)
+
+
+スマートフォンを土台の上面に設置します．
+ここで既にイヤホンを接続し，『1. Arduino検出』をしておきます．
+
+続いて，アプリケーションを起動します．
+ホーム画面に表示している“きっとかっとKit”をタップして起動してください．
+
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430967553_image.png)
+
+
+
+Unityを起動すると，以下のような画面が表示されます．　
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599430959701_image.png)
+
+
+①USB検出ボタン(Unity)
+UnityからUSB検出をします(下図)．この時，アプリケーションが再起動する場合があります．再起動後，再びこのボタンを押して下さい．
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599431042111_image.png)
+
+
+また，デバッグ用の画面（下図）が表示するときがあるので，
+右上の“Close”ボタンを押して消してください．
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599431049415_image.png)
+
+
+
+②キャリブレーションボタン
+入力機構の開閉を検出するために，キャリブレーションをします．
+⑤付近に表示される文章に従って，入力機構を閉じる，および開いて下さい．
+表示される文章の内容は以下の通りです．
+
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599431185883_image.png)
+
+
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599431209393_image.png)
+
+
+③終了ボタン
+強制的にアプリが終了します．
+
+④長い爪および爪切りのモデル
+
+
+①のボタンを押してUSBを検出した後，②のボタンを押してキャリブレーションします．
+その後，つけ爪を装着した指を土台の左側の穴に入れ，中のキューブに添えます．
+そして，モーターと紐でつながれた洗濯ばさみをつけ爪の先端に挟みます(つけ爪の先端にセロハンテープや両面テープをおつけ下さい)．
+モーターと爪が紐で繋がったら，紐が少したるむ程度の位置に左手の指を置いてください．
+
+以上で，きっとCutKitのセットアップが完了です．
+イヤホンをお付けいただいた状態で体験をお楽しみください．
 
