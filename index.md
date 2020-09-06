@@ -64,10 +64,7 @@
 
 （見本）
 
-https://www.youtube.com/watch?v=AjHOCC0CgP0&
-
-
-[https://youtu.be/AjHOCC0CgP0](https://youtu.be/AjHOCC0CgP0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AjHOCC0CgP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
