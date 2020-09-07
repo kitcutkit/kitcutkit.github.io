@@ -13,6 +13,11 @@
 - [入力機構作成](#入力機構作成)
 - [組み立て説明書](#組み立て説明書)
 - [セットアップ](#セットアップ) ←今回はここ以降を体験していただきます
+    - [0. Androidの起動](#0.Androidの起動)
+    - [1. Arduino検出(スマホ)](#1.Arduino検出(スマホ))
+    - [2. 入力機構の取り付け](#2.入力機構の取り付け)
+    - [3. つけ爪の取り付け](#3.つけ爪の取り付け)
+    - [4. キャリブレーションとセットアップ](#4.キャリブレーションとセットアップ)
 - [アプリケーション内容](#アプリケーション内容)
 
 
@@ -117,7 +122,7 @@
 
 # セットアップ
 
-0. Android起動
+### 0.Androidの起動
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9QnggStbpz8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -125,7 +130,7 @@
 Androidスマートフォンは電源オフの状態で送付いたします．
 電源ボタンを長押しすると起動します．
 
-1. Arduino検出(スマホ)
+### 1.Arduino検出(スマホ)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pPGSamyoco8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -137,7 +142,7 @@ Androidスマートフォンは電源オフの状態で送付いたします．
 
 
 
-2. 入力機構の取り付け
+### 2.入力機構の取り付け
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rMz4_WYRa8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -160,7 +165,7 @@ Androidスマートフォンは電源オフの状態で送付いたします．
 
 
 
-3. つけ爪の取り付け
+### 3.つけ爪の取り付け
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UtYEyIsSyJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -185,7 +190,7 @@ Androidスマートフォンは電源オフの状態で送付いたします．
 
 
 
-4. キャリブレーションとセットアップ
+### 4.キャリブレーションとセットアップ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pIxs010hu9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
