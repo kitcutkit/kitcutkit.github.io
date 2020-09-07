@@ -1,8 +1,8 @@
-# きっとCutKit マニュアル
+# きっとCutKitの作り方と体験方法
 
 ***企画コンセプト***
 
-多くのご家庭にあるものと、最低限の電子部品だけで視覚・触覚を使った遊びを**DIY！**
+多くのご家庭にあるものと、最低限の電子部品だけで視覚・聴覚・触覚を使った遊びを**DIY！**
 
 ※今回のIVRC2020 SEED STAGEでは、***割り箸を使った爪切り機構の制作と、<br>木工での枠組み制作を行う必要はありません***。企画のコンセプト上、作り方を解説していますが、体験自体は[セットアップ](#セットアップ)以降のみで可能です。
 
@@ -47,8 +47,6 @@
 - 爪切り動作の際に磁石が移動する
 - 土台に固定する部分
 
-
-（見本）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AjHOCC0CgP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
