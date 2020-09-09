@@ -1,3 +1,11 @@
+
+
+![](https://paper-attachments.dropbox.com/s_7E8E38580FA5BB31E29905DCC8426CF8EF87869136720214B52596613B57A626_1599637356426_CutKit16x9.png)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p7qBf2WNj_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 # きっとCutKitの作り方と体験方法
 
 ***企画コンセプト***
