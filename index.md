@@ -12,9 +12,11 @@
 
 多くのご家庭にあるものと、最低限の電子部品だけで視覚・聴覚・触覚を使った遊びを**DIY！**
 
-※今回のIVRC2020 SEED STAGEでは、***割り箸を使った爪切り機構の制作と、<br>木工での枠組み制作を行う必要はありません***。企画のコンセプト上、作り方を解説していますが、体験自体は[セットアップ](#セットアップ)以降のみで可能です。
 
+***ダウンロード***
+対応環境：Android 5.0以上、Arduino Uno
 [Download Zip file (.apk & .ino)](kitcutkit_sources_v0.1.zip)
+
 
 Contact: kittocutkit[atto]gmail.com
 
