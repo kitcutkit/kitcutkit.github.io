@@ -17,8 +17,7 @@
 
 対応環境：Android 5.0以上、Arduino Uno
 
-[Download Zip file (.apk & .ino)](kitcutkit_sources_v0.1.zip)
-
+[Download Zip file (.apk & .ino)](kitcutkit_sources_v0.1.zip) / [README](kitcutkit_sources/ReadMe.txt)
 
 Contact: kittocutkit[atto]gmail.com
 
